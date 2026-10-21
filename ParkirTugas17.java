@@ -5,7 +5,7 @@ public class ParkirTugas17 {
         Scanner sc = new Scanner(System.in);
         int jenis, durasi, total = 0;
 
-        do {
+        do{
             System.out.print("Masukkan jenis kendaraan (1 = mobil, 2 = motor, 0 = keluar): ");
             jenis = sc.nextInt();
 
